@@ -1,2 +1,2 @@
-# TO-DO-APP
-To-Do app using html ,CSS And Javascript
+# Todo App
+Todo app using html ,CSS And Javascript
